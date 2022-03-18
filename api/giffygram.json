@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "name": "Houston",
+      "email": "houstonbsmith@gmail.com",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "title": "Realizing it's Friday",
+      "imageURL": "https://media.giphy.com/media/Gf3fU0qPtI6uk/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1647444122960,
+      "id": 11
+    },
+    {
+      "title": "When the Breakout Rooms Open",
+      "imageURL": "https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy-downsized-large.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1647442868568,
+      "id": 5
+    },
+    {
+      "title": "Speaking to the Manager",
+      "imageURL": "https://media.giphy.com/media/l2JJpWxDmQBGZNRRe/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1561695022812,
+      "id": 8
+    },
+    {
+      "title": "Walking Out of Spiderman: No Way Home for the 8th Time",
+      "imageURL": "https://media.giphy.com/media/oW4csEbiMzVjq/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1647443387539,
+      "id": 9
+    },
+    {
+      "title": "Finally Getting the Squad Together",
+      "imageURL": "https://media.giphy.com/media/t6f2bNAjx7Bio/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1509855922000,
+      "id": 10
+    }
+  ],
+  "messages": [],
+  "likes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "postId": 2
+    }
+  ]
+}
